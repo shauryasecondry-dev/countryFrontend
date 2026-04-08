@@ -43,7 +43,7 @@ function Hero() {
             
           }}
         >
-          <h2 style={{fontWeight:800,}}>{ele.name.official}</h2>
+          <h2 style={{fontWeight:400,fontSize:"25px"}}>{ele.name.official}</h2>
           
         </div>
       ))}

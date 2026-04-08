@@ -30,7 +30,7 @@ function Hero() {
           key={index}
           style={{
             backgroundColor: "rgba(200, 220, 240,0.5)",
-            width: "13vw",
+            width: "20vw",
            height:"14vh",
             minWidth: "10vw",
             padding: "1vh",
